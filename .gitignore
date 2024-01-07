@@ -1,0 +1,5 @@
+.DS_Store
+flask_env
+*.pyc
+*__pycache__
+form/static/image
